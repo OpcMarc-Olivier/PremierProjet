@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Manrope:wght@200;400&family=Montserrat&family=Nunito:wght@300;400&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    padding: 10px;
+    background-color: rgb(208, 255, 231);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-img {
+    height: 60px;
+}
+
+nav {
+    width: 50%;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
